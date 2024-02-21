@@ -1,6 +1,6 @@
                                            Documentação
 -Execução:
-Para executar o teste você deve copiar a tag que se encontra dentro da Feature/BDD e colar no pacote Runner, dentro da classe executar, no espaço entre aspas Tags.
+Para executar o teste você deve copiar a tag que se encontra dentro da Feature/BDD e colar no pacote Runner, dentro da classe executar, no espaço entre aspas tags.
 
 -Estrutura do Codigo:
 O codigo esta divido por classes com Padrão page Objects.
